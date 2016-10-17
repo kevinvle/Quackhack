@@ -1,0 +1,60 @@
+fileFormatVersion: 1
+guid: bfd18309cd117f67a00079cb4ada8c59
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 0
+  materials:
+    generation: 1
+  animations:
+    generation: 0
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    lampBody:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    lampBulb:
+    - 100004
+    - 400004
+    - 3300004
+    - 2300004
+    lampShade:
+    - 100006
+    - 400006
+    - 3300006
+    - 2300006
+    lampHardware:
+    - 100008
+    - 400008
+    - 3300008
+    - 2300008
+    //RootNode:
+    - 100012
+    - 400012
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface192
+    4300002: revolvedSurface1
+    4300004: polySurface282
+    4300006: pCylinder2
+    4300008: polySurface287
+    4300010: lampBody
+    4300012: lampBulb
+    4300014: lampShade
+    4300016: lampHardware

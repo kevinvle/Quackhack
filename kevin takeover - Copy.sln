@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{102E1319-AD53-FD57-A450-6F750461EFFB}") = "kevin takeover - Copy", "Assembly-CSharp.csproj", "{729B99E9-98E1-48D4-B027-51232AC4809C}"
+EndProject
+Project("{102E1319-AD53-FD57-A450-6F750461EFFB}") = "kevin takeover - Copy", "Assembly-CSharp-Editor.csproj", "{9FEAD032-4EE8-3E0E-00FA-35101DB19CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{729B99E9-98E1-48D4-B027-51232AC4809C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729B99E9-98E1-48D4-B027-51232AC4809C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729B99E9-98E1-48D4-B027-51232AC4809C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729B99E9-98E1-48D4-B027-51232AC4809C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FEAD032-4EE8-3E0E-00FA-35101DB19CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEAD032-4EE8-3E0E-00FA-35101DB19CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEAD032-4EE8-3E0E-00FA-35101DB19CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEAD032-4EE8-3E0E-00FA-35101DB19CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

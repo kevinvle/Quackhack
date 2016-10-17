@@ -1,0 +1,58 @@
+fileFormatVersion: 1
+guid: 23bcdc1bcd11bf67a00037684ada8c59
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 0
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    polySurface280:
+    - 100034
+    - 400034
+    - 3300030
+    - 2300030
+    polySurface281:
+    - 100036
+    - 400036
+    - 3300032
+    - 2300032
+    //RootNode:
+    - 100038
+    - 400038
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface193
+    4300002: polySurface263
+    4300004: polySurface264
+    4300006: polySurface265
+    4300008: polySurface266
+    4300010: diningChair
+    4300012: polySurface268
+    4300014: coffeeTable
+    4300016: polySurface234
+    4300018: polySurface235
+    4300020: polySurface236
+    4300022: polySurface245
+    4300024: polySurface246
+    4300026: polySurface279
+    4300028: polySurface270
+    4300030: polySurface280
+    4300032: polySurface281

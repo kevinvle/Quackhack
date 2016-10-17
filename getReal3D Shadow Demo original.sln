@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9D3E3E5F-3735-564C-8886-4646FB5F4F3A}") = "getReal3D Shadow Demo original", "Assembly-CSharp.csproj", "{3150F9F7-9610-CAF0-9DD5-783E13B9E4D6}"
+EndProject
+Project("{9D3E3E5F-3735-564C-8886-4646FB5F4F3A}") = "getReal3D Shadow Demo original", "Assembly-CSharp-Editor.csproj", "{EC4378A1-E71F-2569-5C8B-DB6401D3BFA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3150F9F7-9610-CAF0-9DD5-783E13B9E4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3150F9F7-9610-CAF0-9DD5-783E13B9E4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3150F9F7-9610-CAF0-9DD5-783E13B9E4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3150F9F7-9610-CAF0-9DD5-783E13B9E4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4378A1-E71F-2569-5C8B-DB6401D3BFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4378A1-E71F-2569-5C8B-DB6401D3BFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4378A1-E71F-2569-5C8B-DB6401D3BFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4378A1-E71F-2569-5C8B-DB6401D3BFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
